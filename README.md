@@ -2,11 +2,14 @@
 <h1 align="center">A passionate programmer in development 💻☕</h1>
 
 <h2 align="left">About me 🍜</h2>
-<h4 align="left">⭐ My full name is Ester Castellano 🌸</h4>
+<h4 align="left">⭐ My full name is Ester Castellano 🌸</h4></p>
 <h4 align="left">⭐ Student at the 42 Málaga Campus 📖</h4>
 <h4 align="left">⭐ Developing as a professional Multiplatform Application Developer 📚</h4>
 <h4 align="left">⭐ Frustrated scientist who ended up completely in the technological world 🧪💻</h4>
-<h4 align="left">⭐ My favorite hobbies are video games, to read, listen to music, studying and learning,... and watching cats on Tiktok. 🐱‍👤
+<h4 align="left">⭐ My favorite hobbies are video games, to read, listen to music, studying and learning 🔍</p>
+
+<h2 align="left">My 42 profile 📼</h2>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/escastel?1337Badge=off&UM6P=off" alt="escastel's 42 stats" /></a>
 
 <h2 align="left">Social Media 🌐</h2>
 <a href="www.linkedin.com/in/ester-castellano-ríos" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" width="120" height="40"/> </a> 
